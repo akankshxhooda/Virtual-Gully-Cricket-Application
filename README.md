@@ -27,6 +27,9 @@
 >-    If runs scored by TeamA is greater than the opponent TeamB, then TeamA will win the game or vice-versa.
 >-    If runs scored by TeamA and TeamB are the same then the match will draw.
 */
+
+//CODE:-
+
 #include <bits/stdc++.h>
 using namespace std;
 
