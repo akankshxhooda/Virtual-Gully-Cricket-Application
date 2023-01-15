@@ -1,6 +1,7 @@
-//Virtual-Gully-Cricket-Application by Akanksha 
+/*Virtual-Gully-Cricket-Application by Akanksha*/
 /*The project “GULLY CRICKET APPLICATION” provides an interactive platform to the individuals to capture the essence of a simple game of cricket comprising two innings, each consisting of six balls. This project revolves around those school days when we used books to play cricket to pass time during boring lectures. The project “Gully Cricket Application” is developed with the same nostalgia where we would create a similar cricket game using the concepts of object-oriented programming of C++, which we learned throughout the journey of our course .*/
 /*Implementation
+
 *1. There should be two teams: TeamA and TeamB*
 >-  Each team will have 4 players.
 >-   The players for each team will be selected by the user from the given pool of 11 players. You can assign the names to those 11 players yourself.
